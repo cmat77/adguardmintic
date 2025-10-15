@@ -220,7 +220,6 @@
 ||tvmagislatino.com^
 ||tvsnipers.com^
 ||vindral.com^
-||/ipv6/firewall/address-list/^
 ||alimovieland.pro^
 ||apkflujotv.com^
 ||apkflujotv.info^
@@ -443,3 +442,4 @@
 ||tvmagislatino.com^
 ||tvsnipers.com^
 ||vindral.com^
+
