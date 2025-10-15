@@ -75,7 +75,8 @@
 ||magistv.club^
 ||magistv.com^
 ||magis-tv.com^
-||magistv.com.armagistv.cam.d^
+||magistv.com.ar^
+||magistv.cam.d^
 ||magistv.com.de^
 ||magistv.com.ec^
 ||magistv.company.site^
@@ -442,4 +443,5 @@
 ||tvmagislatino.com^
 ||tvsnipers.com^
 ||vindral.com^
+
 
